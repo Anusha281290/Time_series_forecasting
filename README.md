@@ -8,6 +8,9 @@ Air Passenger Traffic Forecasting Problem: An airline company has the data on th
 Making this forecast could be quite beneficial to the company as it would help them take some crucial decisions like - 
 
 -- What capacity aircraft should they use?
+
 -- When should they fly?
+
 -- How many air hostesses and pilots do they need?
+
 -- How much food should they stock in their inventory?
